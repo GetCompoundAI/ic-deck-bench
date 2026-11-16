@@ -382,7 +382,7 @@ wheels = [
 
 [[package]]
 name = "ic-deck-bench"
-version = "0.1"
+version = "1.0"
 source = { editable = "." }
 dependencies = [
     { name = "anthropic", extra = ["vertex"] },
